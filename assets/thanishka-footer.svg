@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-labelledby="title desc">
+  <title id="title">Keep building. Keep exploring.</title>
+  <desc id="desc">A minimal animated electric-yellow line on a black background.</desc>
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFD600" stop-opacity=".05"/>
+      <stop offset=".5" stop-color="#FFEA00"/>
+      <stop offset="1" stop-color="#FFD600" stop-opacity=".05"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="150" rx="18" fill="#101010"/>
+  <path d="M0 75 H1200" stroke="#333" stroke-width="1"/>
+  <path d="M0 75 H1200" stroke="url(#line)" stroke-width="3" stroke-dasharray="90 110">
+    <animate attributeName="stroke-dashoffset" values="0;-400" dur="5s" repeatCount="indefinite"/>
+  </path>
+  <text x="600" y="62" fill="#FFFFFF" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" letter-spacing="3">KEEP BUILDING. KEEP EXPLORING.</text>
+  <text x="600" y="105" fill="#FFD600" text-anchor="middle" font-family="monospace" font-size="12" letter-spacing="4">THANISHKA YOGESH  /  2026</text>
+  <circle cx="130" cy="75" r="4" fill="#FFD600"><animate attributeName="opacity" values=".2;1;.2" dur="2s" repeatCount="indefinite"/></circle>
+  <circle cx="1070" cy="75" r="4" fill="#FFD600"><animate attributeName="opacity" values="1;.2;1" dur="2.4s" repeatCount="indefinite"/></circle>
+</svg>
