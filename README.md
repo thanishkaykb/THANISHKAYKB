@@ -16,11 +16,11 @@ I enjoy turning ideas into useful digital experiences, building for the web, and
 
 ## `01` · About Me
 
-- 🎓 Pursuing **B.E. Computer Science and Engineering** at **Sri Sairam Engineering College, Chennai**.
-- 💻 Interested in **full-stack development, web technologies, and software engineering**.
-- 🧩 I like building practical projects, experimenting with interfaces, and learning by shipping.
-- 🤝 Active in student-led technical communities and event initiatives.
-- 🌱 Currently strengthening my skills in programming, backend development, and building end-to-end applications.
+- Pursuing **B.E. Computer Science and Engineering** at **Sri Sairam Engineering College, Chennai**.
+- Interested in **full-stack development, web technologies, and software engineering**.
+- I like building practical projects, experimenting with interfaces, and learning by shipping.
+- Active in student-led technical communities and event initiatives.
+- Currently strengthening my skills in programming, backend development, and building end-to-end applications.
 
 ## `02` · What I've Built
 
