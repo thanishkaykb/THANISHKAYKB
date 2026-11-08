@@ -8,7 +8,7 @@ I enjoy turning ideas into useful digital experiences, building for the web, and
 
 [![GitHub](https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=FFD600)](https://github.com/thanishkaykb)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFD600?style=for-the-badge&logo=linkedin&logoColor=101010)](https://www.linkedin.com/in/thanishka-yogesh/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=vercel&logoColor=101010)](https://thanishka-yogesh-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=vercel&logoColor=101010)](https://thethanishkayogesh.vercel.app/)
 
 </div>
 
@@ -87,8 +87,7 @@ I enjoy contributing to student communities, helping bring technical events to l
 
 [![Let's Connect](https://img.shields.io/badge/LET'S_CONNECT-FFD600?style=for-the-badge&logo=linkedin&logoColor=101010)](https://www.linkedin.com/in/thanishka-yogesh/)
 [![Explore My Work](https://img.shields.io/badge/EXPLORE_MY_WORK-FFFFFF?style=for-the-badge&logo=github&logoColor=101010)](https://github.com/thanishkaykb)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-FFD600?style=for-the-badge&logo=vercel&logoColor=101010)](https://thanishka-yogesh-portfolio.vercel.app/)
-
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-FFD600?style=for-the-badge&logo=vercel&logoColor=101010)](https://thethanishkayogesh.vercel.app/)
 **Have an idea, a project, or an interesting problem? Let's build something meaningful.**
 
 <img src="assets/thanishka-footer.svg" alt="Keep building. Keep exploring." width="100%" />
